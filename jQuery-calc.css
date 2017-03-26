@@ -1,0 +1,47 @@
+body, html{
+   background-color: black;
+}
+
+h1{
+	color: white;
+	font-family:"Oswald";
+}
+h2{
+	color: white;
+	font-family: "Prompt";
+}
+#calcOutput{
+	background-color: white;
+	width: 250px;
+	height: 75px;
+	border-top-left-radius: 2em;
+	border-top-right-radius: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	padding-top: 20px;
+
+}
+#calculator{
+	background-color: grey;
+	width: 250px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	margin-right: auto;
+	margin-left: auto;
+}
+.bigButton{
+	width: 93px;
+}
+#steps{
+	padding-left: 50px;
+}
+
+a{
+	margin: 5px;
+	width: 2.6vw;
+	height: 2.6vw;
+
+}
